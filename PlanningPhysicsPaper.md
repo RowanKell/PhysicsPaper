@@ -185,7 +185,7 @@ $$
 
    6. 
 
-3. Lalit Sehgal pointed out in 1974 that equation 4 could be rewritten to solve for the sum, and that the sum appeared to be about 0.6 - this suggests that a significant portion of the proton spin does not come from the quarks
+1. Lalit Sehgal pointed out in 1974 that equation 4 could be rewritten to solve for the sum, and that the sum appeared to be about 0.6 - this suggests that a significant portion of the proton spin does not come from the quarks
 
 ***An Experimental Science***
 

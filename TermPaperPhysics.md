@@ -159,9 +159,13 @@ Unplaced parts that I can explain now but need to place in a natural place later
    19. The new SLAC and SMC data produced results for this quantity, allowing for evaluation of the Bjorken sum rule. The results from both experiments proved consistent with expected values, acting as a confirmation of the sum rule. 
 
    1. **NEW SECTION KINDA  - TRANSITION FROM EMC RESULT TO FOLLOWING EXPERIMENTS**
-   2. 
 
-4. 
+
+#### Section 3: Experiments past the EMC/SMC
+
+1. Following the results from the SMC and SLAC that cemented the Bjorken sum-rule in spin physics, many experiments continued the legacy of investigating the proton spin structure. The first of these experiments used inclusive DIS to study the nucleon, 
+
+1. 
 
 ### Appendix
 

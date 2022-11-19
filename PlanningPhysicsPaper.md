@@ -389,9 +389,35 @@ Endnote 2 is the paper of the first published results fo DIS
    
          1. Windmolders 2002 - https://arxiv.org/pdf/hep-ph/0211350.pdf
 
+**Section 3: Experiments**
 
+<u>*From this section see what we can learn from each experiment rather than just give summaries - try to bring together a story*</u>
 
+1. SLAC experiments
+   1. Polarized DIS measurements, set many standards in polarized beam and target tech
+   2. There were 6 experiments performed utilizing polarized electrons from laser photoemission:
+      1. E80, E130, E142, E143, E154, E155
+   3. Here physicists figured out that cycling the beam and/or target polarization reduced systematic uncertainties in the measured spin asymmetries related to the stability of experimental setup (6)
+   4. Used solid state butanol and ammonia for the proton and D-butonol, ND_3 and LiD for the deutron.
+   5. polarized the targets using dynamic nuclear polarization
+      1. Requires temps of 1K and strong magnetic fields.
+      2. Since the targets contains a considerable amount of  non-polarized nucleons, a dillution factor was introduced
+   6. Information on the neutron structure was obtained from combinations of measurements with proton and deuteron targets or by using polarized He targets which are dominated by the neutron as the two propon spins are anti-aligned
+   7. Polarization was obtained from pumping and adiabatic spin exchange
+   8. target polarization was measured through NMR
+   9. Scattered electrons were detected with magnetic spectrometers optimized for high-momentum-resolution and good electron ID (all page 6)
+2. Page 7: CERN Experiments
+   1. EMC and SMC
+      1. First polarized DIS measurements at x < 0.1 down to x = 0.01
+      2. Used a muon beam with momenta up to 200 GeV, and solid state irradiated ammonia target
+      3. Low x measurements suggested the breakdown of the naive parton picture that all spin comes from quarks (as discussed in previous section)
+      4. EMC inspired the SMC experiments (1992-6) and COMPASS experiments (2002 on)
+      5. After 1987 the focus shifted to measurements of the flavor singlet axial charge (Ellis-Jaff sum-rule) in events with x < 0.1
+      6. Large acceptance of the SMC spectrometer in the forward direction allowed them to present the first determination of individual quark distributions for different flavors (Adeva et al 1996, 1998a) from SIDIS
+   2. COMPASS
+      1. COMPASS's 
 
+**<u>STOPPED HERE, ON PAGE 8 OF PROTON SPIN PUZZLE</u>**
 
 ##### Windmolders 2002: "An Introduction to the Evalution of Spin Structure Functions from Experimental Data"
 

@@ -415,9 +415,60 @@ Endnote 2 is the paper of the first published results fo DIS
       5. After 1987 the focus shifted to measurements of the flavor singlet axial charge (Ellis-Jaff sum-rule) in events with x < 0.1
       6. Large acceptance of the SMC spectrometer in the forward direction allowed them to present the first determination of individual quark distributions for different flavors (Adeva et al 1996, 1998a) from SIDIS
    2. COMPASS
-      1. COMPASS's 
+      1. COMPASS uses an advanced polarized target system that cools the targets to 60 mK in frozen spin mode, and then are polarized by dynamic nuclear polarization. This allows them to reach polarization of 85% for protons and 50% for deuterons
+      1. COMPASS reconstructs one final state hadron which provides information about the struck quark flavor.
+3. HERMES at DESY
+   1. HERMES uses a unique technique for the polarized target where they used has targets of pure nuclear-polarized targets. This way, they can avoid dilution of the signal from unpolarized nucleons in the target
+   2. The targets were highly longitudinally polarized (~85%) or transversly polarized (75%), and physicists could flip the direcction of the spin within milliseconds (8).
+   3. HERMES also used a novel storage cell design that allowed for the target gas to be 100x more dense than previously would've been possible
+4. JLAB experiments - page 9
+   1. JLAB had highest polarization electron beams (85%) with 0.8-6 GeV energy
+      1. Tech follows the tech developed at SLAC
 
-**<u>STOPPED HERE, ON PAGE 8 OF PROTON SPIN PUZZLE</u>**
+5. Hadronic Scattering Experiments
+   1. RHIC
+
+
+
+
+***Section 4: Proton Spin Puzzle***
+
+1. First moment of $g_1$ is related to the scale-invariant axial charges of the target nuclei:
+
+2. $$
+   \int _0 ^1 dx \space g_1 ^p (x,Q^2) = \left( \frac{1}{12}g_A^{(3)} + \frac{1}{36}g_A^{(8)} \right) \left\{ 1 + \sum \limits_{l \geq 1}c_{NSl} \alpha_s^l(Q)\right\} \\
+   + \frac{1}{9}g_A^{(0)}|_{inv}\left\{ 1 + \sum \limits_{l \geq 1}c_{Sl} \alpha_s^l(Q) \right\} + O(\frac{1}{Q^2}) + \beta_{\infin}
+   $$
+
+3. Here, $g_A^{(3)}$, $g_A^{(8)}$, and $g_A^{(0)}$ are the isovector, SU(3) octet and scale-invariant flavor-singlet axial charges respectively. Once can calculate the flavor non-singlet $c_{NSl}$ and singlet $c_{Sl}$ Wilson coefficients in l-loop perturbative QCD. We know these values to a precision of O($\alpha _s ^3$). For DIS at $\alpha _s = 0.3$, one finds:
+
+4. $$
+   \left\{1 + \sum_{l = 1}^3 c_{NSl} \alpha_s ^l(Q)\right\} = 0.85
+   $$
+
+5. and
+
+6. $$
+   \left\{1 + \sum_{l = 1}^3 c_{Sl} \alpha_s ^l(Q)\right\} = 0.96
+   $$
+
+7. $\beta_{\infin}$ represents a possible leading twist subtraction constant from the circle at infinity when one closes the contour in the complex plane  in the dispersion relation. This constant affects just the first moment and corresponds to a contribution at $x_{Bj} = 0$. 
+
+8. In terms of flavor-dependent axial charges:
+
+9. $$
+   2Ms_\mu \Delta q = \langle p, s|\overline{q} \gamma_{\mu} \gamma_5 q| p, s \rangle
+   $$
+
+10. We find the isovector, octet and singlet axial charges are:
+
+11. $$
+    g_A ^{(3)} = \Delta u - \Delta d \\
+    g_A ^{(8)} = \Delta u + \Delta d - 2\Delta s \\
+    g_A ^{(0)}|_{inv} / E(\alpha _s) \equiv g_A ^{(0)} = \Delta u + \Delta d + \Delta s 
+    $$
+
+    
 
 ##### Windmolders 2002: "An Introduction to the Evalution of Spin Structure Functions from Experimental Data"
 

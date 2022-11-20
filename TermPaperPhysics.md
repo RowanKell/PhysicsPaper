@@ -12,6 +12,14 @@ Outline:
    1. Make sure to figure out / explain the significance of asymmetries
 2. Try to find original results to both get more diverse references and find what they were saying at time of publication to give more of a timeline
 3. Where does theoretical value for g_1^n come from
+4. Need to check equations for consistency in variables
+   1. For example, $\Sigma$ and $g_A ^{(0)}$ both represent the singlet axial charge, these should either be noted that they are the same but diff notation, or written the same
+   2. For this case, probably write it using  $g_A ^{(0)}$ to reflect the current notation but note that Jaffe used $\Sigma$ in his paper
+
+
+***Questions***
+
+1. What does first moment mean for a structure function?
 
 **Notes:**
 

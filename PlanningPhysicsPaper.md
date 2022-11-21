@@ -465,10 +465,30 @@ Endnote 2 is the paper of the first published results fo DIS
 11. $$
     g_A ^{(3)} = \Delta u - \Delta d \\
     g_A ^{(8)} = \Delta u + \Delta d - 2\Delta s \\
-    g_A ^{(0)}|_{inv} / E(\alpha _s) \equiv g_A ^{(0)} = \Delta u + \Delta d + \Delta s 
+    g_A ^{(0)}|_{inv} / E(\alpha _s) \equiv g_A ^{(0)} = \Delta u + \Delta d + \Delta s
     $$
 
-    
+    1. $g_A^{(0)}$ is the same as $\Sigma$ before, and shows the total contribution from light quark spin, and this is the same as $g_1(x)$ in the short paper
+
+12. The term $g_A ^{(0)}|_{inv} / E(\alpha _s)$ is explained in reference (this long paper) ___ on pages 12-13, and is out of the scope of this paper
+
+13. $g_A^{(0)}$ is obtained through measuring the structure function $g_1$ and combining the first moment integral in eq 12 with knowledge of $g_A^{(3)}$ and $g_A^{(8)}$ from other processes and pQCD
+
+14. $g_A^{(3)}$ is obtained from measuring neutral $\beta$ decays and the octet axial charge is commonly taken to be ...
+
+15. DIS measurements of $g_1$ have been made at CERN, DESY, JLAB, and SLAC
+
+
+
+***A. Spin sum rules*** 
+
+
+
+
+
+
+
+
 
 ##### Windmolders 2002: "An Introduction to the Evalution of Spin Structure Functions from Experimental Data"
 
@@ -610,6 +630,64 @@ Endnote 2 is the paper of the first published results fo DIS
 **General characteristics of electron and muon experiments**
 
 1. 
+
+
+
+#### Notes from Textbook
+
+<u>**Chapter 9: Atomic Structure**</u>
+
+***9.2 The Spinning Electron***
+
+1. Spectral lines are doubled as compared to what we would expect
+
+2. Orbital motion of electron gives rise to magnetic effects, but here we find a different phenomena.
+
+3. In addition to the electorn orbit, it can be helpful to think of the electron as a charged ball spinning on it's axis.
+
+   1. This is a not the case, however
+
+4. The magnetic effects of the electron "spinning" can be described by a spin magnetic moment $\mu_s$. 
+
+   1. If we think of the electron as a collection of charged objects with mass m all rotating about a fixed axis, then we can calculate the magnetic moment from the angular momentum $L = r \times p$ 
+
+5. I will forgoe any further calculations involving the spinning electron as this is not actually accurate to the electron spin moment. If we calculate the necessary velocity for the outermost layer of the electron that corresponds to the measured value for the electrons magnetic moment then we find that the outside of the electron must move much faster than the speed of light. Einstein's special  theory of relativity forbids this, however, and thus we must reconcile the magnetic moment of the electron as an intrinsic characteristic of the particle, like electric charge, not a result of any actual spinning.
+
+6. The Stern-Gerlach experiment demonstrated the existence of the electron spin magnetic moment in 1921.
+
+   1. In the experiment a beam of silver atoms were sent through a magnetic field and deposited onto a glass plate. Stern and Gerlach utilized a non-uniform magnetic field that would exert a force on an particle with a magnetic moment. This magnetic deflection depends on the the angle between the particle's magnetic moment and the z axis (designated by experimental design). Stern and Gerlach intended for the experiment to show the quantization of space due to quantized orbital momentum. They had expected to see many discrete deposits of silver atoms according to quantization of orbital moments, $(2l+1)$, which contrasts the continuous span of silver expected from a classical perspective where the electron orbital moment can exist anywhere. 
+
+   2. When viewing the results, the physicists were shocked to find two discrete components, not the odd number given by $(2l  + 1)$, nor a continuous span described in classical mechanics. Furthermore, the silver atoms used in this experiment have no orbital angular momentum in their ground state where the valence electron resides in the s state ($l = 0$).
+
+   3. T.E. Phipps and J.B. Taylor confirmed the results of Stern and Gerlach in 1927. To reduce the complexity of the system they opted to use hydrogen atoms in their experiment. After finding the same result, physicists concluded that orbital momentum must not account for the total atomic magnetic moment.
+
+   4. Graduate students at the University of Leiden theorized that this unknown effect may result from the spinning motion of the outermost electron which cemented the name of the phenomena, despite its inaccuracy. 
+
+   5. Furthermore, the students conjectured that the moment obeyed the same quantization rules as orbital angular momentum, producing a formula for number of components of spin angular momentum: $(2s + 1)$. Both the Stern-Gerlach experiment and Phipps-Taylor experiment showed two distinct components, indicating the value for the spin quantum number $s = \frac{1}{2}$.
+
+   6. Now applying space quantization rules for angular momentum to spin, we introduce:
+
+      1. $$
+         S_z = m_s \hbar
+         $$
+
+      2. where $m_s = \pm \frac{1}{2}$
+
+      3. The values for $m_s$ are often represented by an up arrow or plus sign for $m_s = +\frac{1}{2}$, and a down arrow or negative sign for $m_s = -\frac{1}{2}$
+
+      4. Taking the magnitude of spin angular momentum we find:
+
+         1. $$
+            |S| = \sqrt{s(s+1)\hbar} = \frac{\sqrt{3}}{2} \hbar
+            $$
+
+         2. This value is a constant, showing that the spin angular momentum for an electron is an intrinsic property of the electron
+
+   ##### Connection from textbook to paper
+
+   (connect talking about how an experiment showed that the naive picture was wrong)
+
+   In 1967 (fix date), the EMC experiment produced an unexpected result suggesting that not all of the proton's spin comes from the spin of the constituent quarks. The result of this experiment is reminiscent of the Stern-Gerlach result, as both found that the current models of the atom and the proton were oversimplified, and missing essential phenomena that accounts for part of the total phenomena. In a sense, the proton spin puzzle could be thought of as a repeat (change word) of the Stern-Gerlach result at the next level lower, from the atom to the nucleon. Hence, this paper serves to give a brief introduction to the more recent expansion on spin studies that occurred after the content taught in modern physics
 
 **Questions**
 

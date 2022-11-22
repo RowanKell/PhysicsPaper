@@ -6,11 +6,7 @@
 
 ### I. Introduction
 
-​	Over the past summer and throughout this semester I have had the opportunity to work on a particle physics research project. My project concerns the validity of TMD factorization in the Semi-Inclusive deep inelastic scattering  (SIDIS) at CLAS12, a detector at Jefferson Lab. Specifically, I have worked on calculating SIDIS kinematics from CLAS12 data (and simulation) that can be used to calculate a quantity called affinity that estimates how well certain factorization schemes describe the QCD physics occuring in SIDIS. My project is tiny part of the giant global effort to describe the dynamics and structure of nucleons: the proton and neutron. This effort was jump started in 1988 when the European Muon Collaboration published the first results of $g_1^p$, a quantity that describes how much of the proton's spin is made up from valence quark spin. The simplest quark model of the proton describes the nucleon as a collection of three quarks bound together by nuclear gluon, where the proton's 1/2 spin is the sum of the spins of the 1/2 spin quarks. SIDIS experiments have forced physicists to create more complex nucleon models where the three valence quarks orbit through a sea of quark-antiquark pairs. The proton spin can thus originate in parts from valence quark spin and angular momentum, sea quark spin and angular momentum, and even gluon spin and angular momentum. This paper aims to introduce the experiments that began and continued these efforts in proton spin studies, explain the impact of SIDIS studies on the field, and connect the physics back to the basics of spin taught in Modern Physics courses
-
-
-
-Particle physics aims to describe the fundamental building blocks that make up every part of the universe. Physicist have developed our understanding of particles tremendously over the past few centuries, from models of the atom to now models of the protons and neutrons. One program in this field concerns the spin structure of the proton, and aims to describe how elementary particles, quarks and gluons (also referred to collectively as partons), make up the nucleons. The quark model of the proton began as a simple collection of static quarks, and has evolved into a complicated sea of quark anti-quark pairs orbiting at high speeds inside the nucleon. The first indication that the initial quark model was incorrect came in 1988 when the European Muon Collaboration (EMC) published results that disagreed with the assumptions underlying this model (EMC 1988). The three valence quarks of the quark model appeared to not contribute much of the total spin of the proton. This result spurred a global effort to describe the dynamics and structure of the proton.
+​	Particle physics aims to describe the fundamental building blocks that make up every part of the universe. Physicist have developed our understanding of particles tremendously over the past few centuries, from models of the atom to now models of the protons and neutrons. One program in this field concerns the spin structure of the proton, and aims to describe how elementary particles, quarks and gluons (also referred to collectively as partons), make up the nucleons. The quark model of the proton began as a simple collection of static quarks, and has evolved into a complicated sea of quark anti-quark pairs orbiting at high speeds inside the nucleon. The first indication that the initial quark model was incorrect came in 1988 when the European Muon Collaboration (EMC) published results that disagreed with the assumptions underlying this model (EMC 1988). The three valence quarks of the quark model appeared to not contribute much of the total spin of the proton. This result spurred a global effort to describe the dynamics and structure of the proton.
 
 ​	First the paper intends to provide an overview of spin for elementary particles and how the quantity can be used to describe (word for not elementary) particles. I will then discuss the Bjorken and Ellis-Jaffe sum rules and their relevance to nucleon spin, as well as the experiments that tested their validity. These experiments lead into the current topics in proton spin studies where the paper concludes.
 
@@ -78,23 +74,11 @@ $$
 $$
 (Jaffe 27). Ellis and Jaffe had conjectured this value to be zero and thus the EMC data shows a violation of their sum rule.
 
-​	The spin muon collaboration succeeded the EMC and set out to further their goals of describing the nucleon spin structure through measurements of the neutron structure function. SLAC followed suit and worked to measure the structure function as well, and both groups announced their first results in 1993. Assuming no contribution from the strange quark, the theoretical value is:
-$$
-\int _0 ^1 g^n _1 (x)dx = -0.002 \pm 0.005
-$$
-The SMC reported an inconsistent value of:
-$$
-\int _0 ^1 g^n _1 (x)dx = -0.08 \pm 0.04
-$$
-And lastly SLAC reported a closer to theoretical value:
-$$
-\int _0 ^1 g^n _1 (x)dx = -0.022 \pm 0.011
-$$
-(Jaffe 28). Recalling the Bjorken sum rule, we can write a new integral which is equal to $1/2$ the left side of equation 1:
+​	The spin muon collaboration succeeded the EMC and set out to further their goals of describing the nucleon spin structure through measurements of the neutron structure function. SLAC followed suit and worked to measure the structure function as well, and both groups announced their first results in 1993. Assuming no contribution from the strange quark, the theoretical value is $\int _0 ^1 g^n _1 (x)dx = -0.002 \pm 0.005$. The SMC reported an inconsistent value of $\int _0 ^1 g^n _1 (x)dx = -0.08 \pm 0.04$. SLAC reported a value of $\int _0 ^1 g^n _1 (x)dx = -0.022 \pm 0.011$ (Jaffe 28). Recalling the Bjorken sum rule, we can write a new integral which is equal to $1/2$ the left side of equation 1:
 $$
 \int^1_0 (g(x)_1^p - g(x)_1^n)dx \space \space \space \space (eq\space  6)
 $$
-The new SLAC and SMC data produced results for this quantity, allowing for evaluation of the Bjorken sum rule. The results from both experiments proved consistent with expected values, acting as a confirmation of the sum rule. 
+The results from both experiments proved consistent with expected values, confirming Bjorken's rule
 
 #### IV. Current Solutions and Problems
 
